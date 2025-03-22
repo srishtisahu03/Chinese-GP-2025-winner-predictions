@@ -41,5 +41,5 @@ This project is open-source and free to use.
 
 ## Contact
 
-Srishti Sahu - srishtisahu2006@gmail.com <\br>
+Srishti Sahu - srishtisahu2006@gmail.com  
 Project Link: https://github.com/srishtisahu03/Chinese-GP-2025-winner-predictions
